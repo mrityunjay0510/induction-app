@@ -1,2 +1,2 @@
-# inuduction-app
+# induction-app
 Angualr learning demo
